@@ -3,6 +3,6 @@
   "description": "App to connect device with Samrtthings and Node JS",
   "repository": "https://github.com/hugocarmona7",
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
-  "keywords": ["node", "express", "heroku"],
+  "keywords": ["node", "smartthings", "heroku"],
   "image": "heroku/nodejs"
 }
