@@ -1,7 +1,7 @@
 {
-  "name": "node-js-getting-started",
+  "name": "smartthingshc",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "A sample Node.js app using Smartthings",
   "engines": {
     "node": "8.9.1"
   },
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/hugocarmona7/smartthingshc"
   },
   "keywords": [
     "node",
     "heroku",
-    "express"
+    "smartthings"
   ],
   "license": "MIT"
 }
